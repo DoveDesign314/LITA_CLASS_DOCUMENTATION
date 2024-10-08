@@ -27,9 +27,16 @@ Unlocking Insights: A Data Analysis Journey Through Hands-On Projects and Real-W
 
 
 ### Project Overview
+- Mastering Data Analysis Tools
+This Data Analysis Project showcases my progressive learning journey across three key tools: Microsoft Excel, SQL, and Power BI.
+
+- Microsoft Excel: My foundational learning began with mastering essential Excel functions, including data entry, formatting, and formulas such as SUM, AVERAGE, and IF. I further developed my skills by working with advanced features like pivot tables, VLOOKUP, and data analysis tools, while enhancing data visualization through the creation of charts and graphs. This solid foundation in Excel enables me to efficiently manage, analyze, and present data for meaningful insights.
+- SQL: Moving beyond Excel, I delved into SQL to manipulate and query large datasets. This includes writing queries to extract, filter, and aggregate data from relational databases, optimizing data retrieval, and generating reports to support data-driven decision-making.
+- Power BI (In Progress): Currently, I am expanding my skills by learning Power BI, focusing on creating dynamic dashboards, visualizing complex data, and generating interactive reports. This will further enhance my ability to transform raw data into actionable insights.
 
 
 ### Data Sources
+
 
 ### Tools used
 
