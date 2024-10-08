@@ -36,7 +36,11 @@ This Data Analysis Project showcases my progressive learning journey across thre
 
 
 ### Data Sources
+Throughout this project, I utilized a variety of publicly available datasets and simulated data to apply and enhance my skills in Microsoft Excel, SQL, and Power BI. Some key data sources include:
 
+- Public Datasets: Sourced from platforms like Kaggle and government open data portals, covering areas such as sales, customer demographics, healthcare statistics, and financial records.
+- Simulated Data: For certain projects, I created simulated data to mirror real-world business scenarios. This helped me explore different use cases and test advanced features like pivot tables, complex SQL queries, and dynamic Power BI dashboards.
+- other sources: Online Courses and Tutorials: Platforms like Coursera, Udemy, LinkedIn Learning, YouTube channels, and edX offer comprehensive courses for skills development.
 
 ### Tools used
 
